@@ -1,1 +1,5 @@
 MNIST/.ipynb_checkpoints
+MNIST/ios/DigitClassifier.xcodeproj/xcuserdata
+MNIST/ios/DigitClassifier.xcworkspace/xcuserdata
+MNIST/ios/Pods/Pods.xcodeproj/xcuserdata
+MNIST/ios/Pods
