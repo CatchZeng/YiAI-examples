@@ -7,3 +7,5 @@ Glory-of-Kings/dataset-collector/__pycache__
 Glory-of-Kings/ios/ImageClassification.xcodeproj/xcuserdata
 Glory-of-Kings/ios/ImageClassification.xcworkspace/xcuserdata
 Glory-of-Kings/ios/Pods
+.vscode
+papers/AlexNet/.ipynb_checkpoints
